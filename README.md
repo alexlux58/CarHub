@@ -1,5 +1,7 @@
 # CarHub 🚗
 
+![Carhub Image](./CarHub.png)
+
 ## Overview
 
 CarHub is a Next.js application that serves as a comprehensive car catalogue. Explore cars you might like, filter them based on various parameters like fuel type and year of production, and get detailed information about each car.
